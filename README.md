@@ -18,5 +18,3 @@
      <br/>
 :pencil2: Study with me!
 </div>
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={MIJUUUUU}&theme=dark)
-<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=dark"/>
