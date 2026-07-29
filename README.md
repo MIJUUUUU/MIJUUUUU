@@ -1,5 +1,9 @@
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=rect&text=MIJU'S_GIT&fontAlign=50&fontSize=90&height=170&animation=scaleIn&color=gradient&customColorList=0,2,2,5,30&section=header&fontColor=ffffff)
+
+<br />
+
 <h1>AI Service Developer · Miju Lee</h1>
 
 ### 데이터를 연결해 AI 서비스로 가치를 만드는 개발자, 이미주입니다.
@@ -57,6 +61,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-659BEF?style=flat-square)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-7CCEA0?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -67,6 +75,8 @@
 
 **DevOps & Deployment**
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=121212)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
