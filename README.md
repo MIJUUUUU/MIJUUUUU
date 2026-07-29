@@ -29,53 +29,10 @@
 
 ## Core Competencies
 
-| 01 · DATA ANALYSIS | 02 · SERVICE PLANNING | 03 · AI SERVICE |
-|:---|:---|:---|
+| 01 · DATA ANALYSIS                                                | 02 · SERVICE PLANNING                                                   | 03 · AI SERVICE                                                         |
+| :---------------------------------------------------------------- | :---------------------------------------------------------------------- | :---------------------------------------------------------------------- |
 | 데이터 정제·분석과 지표 설계를 통해 문제를 객관적으로 파악합니다. | 사용자 인터뷰와 요구사항 분석으로 핵심 문제와 서비스 흐름을 설계합니다. | RAG, LLM, 이상 탐지 모델을 사용자가 활용할 수 있는 기능으로 구현합니다. |
-| `Data Analysis` `ERD` `PostgreSQL` | `User Interview` `Requirements` `Service Flow` | `RAG` `LLM` `Machine Learning` |
-
-<br />
-
-## Featured Projects
-
-### 01. SK 근태관리 이상 패턴 자동 탐지 시스템
-
-> 분산된 HR·출입·VDI 데이터를 통합하고 반복·복합 이상 행동 패턴을 분석하는 AI 기반 대시보드
-
-- **My Role** — Pain Point 분석, PostgreSQL 통합 데이터 구조 및 ERD 설계, 이상 탐지 결과를 확인하는 대시보드 구현
-- **Result** — 여러 시스템의 근태 기록을 한 화면에서 조회하고 이상 행동을 신속하게 분석할 수 있는 기반 구축
-- **Tech** — `Spring Boot` `PostgreSQL` `Isolation Forest` `Docker`
-
-### 02. EMG 기반 보행 상태 분석 연구
-
-> 하지 근전도 신호만으로 보행 상태를 정량적으로 분류한 생체신호 데이터 분석 연구
-
-- **My Role** — EMG 데이터 수집·전처리, RMS 특징 추출, Random Forest 기반 분류 모델 개발
-- **Result** — 약 95% 분류 정확도 달성, 논문 게재 및 특허 출원
-- **Tech** — `Python` `Machine Learning` `Signal Processing` `Random Forest`
-- **Publication** — [대한의용생체공학회 논문](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003239062)
-
-### 03. AI 면접 훈련 서비스
-
-> 답변과 비언어 데이터를 함께 분석해 개인 맞춤형 피드백을 제공하는 AI 면접 훈련 서비스
-
-- **My Role** — 개인 맞춤형 면접 데이터 구조 설계, STT/TTS 연동, 답변 분석 및 피드백 생성 로직 구현
-- **Result** — 답변과 사용자 행동 데이터를 종합한 AI 면접 리포트 자동 생성
-- **Tech** — `Generative AI` `STT/TTS` `React` `Spring Boot`
-
-### 04. 스마트 제조 의사결정 RAG
-
-> 제조 공정 데이터와 외부 산업 정보를 통합해 생산 이상과 위험 요인을 함께 탐색하는 의사결정 지원 시스템
-
-- **My Role** — 담당자 인터뷰 기반 요구사항 분석, 내부 공정 데이터와 외부 정보의 통합 구조 및 RAG 흐름 설계
-- **Result** — 생산 이상 원인과 외부 리스크를 단일 질의로 확인하는 통합 분석 환경 구현
-- **Tech** — `RAG` `Vector DB` `Python` `PostgreSQL`
-
-<div align="right">
-
-[웹 포트폴리오에서 프로젝트 더 보기 →](https://portfolio.mijoo.co.kr)
-
-</div>
+| `Data Analysis` `ERD` `PostgreSQL`                                | `User Interview` `Requirements` `Service Flow`                          | `RAG` `LLM` `Machine Learning`                                          |
 
 <br />
 
@@ -112,12 +69,12 @@
 
 ## Experience & Training
 
-| Period | Experience |
-|:---:|:---|
-| 2025.08 | 대한의용생체공학회 논문 게재 · 특허 출원 |
-| 2025.07 – 2025.12 | SK AX · SKALA (SK AI Leader Academy) |
-| 2024.11 – 2025.08 | Data Intelligence Lab 학부연구생 |
-| 2026.02 – 2026.07 | 생성형 AI를 활용한 Full-stack 개발 과정 |
+|      Period       | Experience                               |
+| :---------------: | :--------------------------------------- |
+|      2025.08      | 대한의용생체공학회 논문 게재 · 특허 출원 |
+| 2025.07 – 2025.12 | SK AX · SKALA (SK AI Leader Academy)     |
+| 2024.11 – 2025.08 | Data Intelligence Lab 학부연구생         |
+| 2026.02 – 2026.07 | 생성형 AI를 활용한 Full-stack 개발 과정  |
 
 <br />
 
