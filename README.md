@@ -40,6 +40,8 @@
 
 **Frontend**
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
@@ -55,15 +57,22 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-659BEF?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-7CCEA0?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DB-F4C74F?style=flat-square&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-9B8AFB?style=flat-square)
 ![LLM](https://img.shields.io/badge/LLM-ED76AC?style=flat-square)
 
 **DevOps & Deployment**
 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 <br />
 
@@ -77,24 +86,3 @@
 | 2026.02 – 2026.07 | 생성형 AI를 활용한 Full-stack 개발 과정  |
 
 <br />
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MIJUUUUU&show_icons=true&hide_border=true&title_color=659BEF&icon_color=7CCEA0&text_color=555555&bg_color=00000000" alt="Miju's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIJUUUUU&layout=compact&hide_border=true&title_color=9B8AFB&text_color=555555&bg_color=00000000" alt="Most used languages" />
-
-</div>
-
-<br />
-
----
-
-<div align="center">
-
-### Let's build an AI service that solves a real problem.
-
-[Portfolio](https://portfolio.mijoo.co.kr) · [Blog](https://study-juju.tistory.com/) · [Email](mailto:dlalwnjenny@naver.com)
-
-</div>
