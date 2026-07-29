@@ -1,19 +1,17 @@
 <div align="center">
 
-<img src="./assets/readme-hero.svg" width="100%" alt="AI Service Developer Miju Lee" />
-
-<br />
+<h1>AI Service Developer · Miju Lee</h1>
 
 ### 데이터를 연결해 AI 서비스로 가치를 만드는 개발자, 이미주입니다.
 
-데이터 분석부터 사용자 문제 정의, AI 기능 구현까지  
+데이터 분석부터 사용자 문제 정의와 AI 기능 구현까지,<br />
 기술이 실제로 사용되는 서비스 흐름을 설계하고 개발합니다.
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-659BEF?style=for-the-badge&logoColor=white)](https://portfolio.mijoo.co.kr)
-[![Blog](https://img.shields.io/badge/TECH_BLOG-7CCEA0?style=for-the-badge&logo=tistory&logoColor=white)](https://study-juju.tistory.com/)
-[![Email](https://img.shields.io/badge/EMAIL-ED76AC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dlalwnjenny@naver.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-659BEF?style=flat-square&logoColor=white)](https://portfolio.mijoo.co.kr)
+[![Blog](https://img.shields.io/badge/TECH_BLOG-7CCEA0?style=flat-square&logo=tistory&logoColor=white)](https://study-juju.tistory.com/)
+[![Email](https://img.shields.io/badge/EMAIL-ED76AC?style=flat-square&logo=gmail&logoColor=white)](mailto:dlalwnjenny@naver.com)
 
 </div>
 
