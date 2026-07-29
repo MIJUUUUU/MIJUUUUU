@@ -1,0 +1,47 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7F4EE"/>
+      <stop offset="0.5" stop-color="#FBF8F2"/>
+      <stop offset="1" stop-color="#F7F2F6"/>
+    </linearGradient>
+    <radialGradient id="blue" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(155 85) rotate(26) scale(340 230)">
+      <stop stop-color="#9EDBFF" stop-opacity="0.52"/>
+      <stop offset="1" stop-color="#9EDBFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="purple" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1010 100) rotate(145) scale(360 240)">
+      <stop stop-color="#C9B8FF" stop-opacity="0.48"/>
+      <stop offset="1" stop-color="#C9B8FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="green" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(640 340) rotate(-86) scale(250 390)">
+      <stop stop-color="#B9E9B0" stop-opacity="0.44"/>
+      <stop offset="1" stop-color="#B9E9B0" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="300" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#659BEF"/>
+      <stop offset="0.36" stop-color="#65CDA0"/>
+      <stop offset="0.68" stop-color="#F4C74F"/>
+      <stop offset="1" stop-color="#ED76AC"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="360" rx="26" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="26" fill="url(#blue)"/>
+  <rect width="1200" height="360" rx="26" fill="url(#purple)"/>
+  <rect width="1200" height="360" rx="26" fill="url(#green)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="25" stroke="#121212" stroke-opacity="0.1"/>
+
+  <text x="62" y="68" fill="#555555" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="3">MIJU LEE · 2026 PORTFOLIO</text>
+  <text x="62" y="172" fill="#121212" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="800" letter-spacing="-3">AI SERVICE</text>
+  <text x="62" y="244" fill="#121212" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="800" letter-spacing="-3">DEVELOPER</text>
+  <rect x="62" y="277" width="490" height="8" rx="4" fill="url(#accent)"/>
+  <text x="62" y="321" fill="#5F5F5F" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="600">DATA ANALYSIS · SERVICE PLANNING · AI IMPLEMENTATION</text>
+
+  <g opacity="0.96">
+    <rect x="895" y="80" width="216" height="64" rx="32" fill="white" fill-opacity="0.6" stroke="#121212" stroke-opacity="0.13"/>
+    <text x="934" y="120" fill="#121212" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">BUILD WITH AI</text>
+    <circle cx="921" cy="112" r="7" fill="#659BEF"/>
+  </g>
+  <text x="894" y="208" fill="#121212" fill-opacity="0.16" font-family="Arial, Helvetica, sans-serif" font-size="108" font-weight="900">MIJU</text>
+  <text x="896" y="255" fill="#555555" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600">From data to a usable service.</text>
+</svg>
