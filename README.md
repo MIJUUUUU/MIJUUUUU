@@ -14,7 +14,7 @@
 <br />
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-659BEF?style=flat-square&logoColor=white)](https://portfolio.mijoo.co.kr)
-[![Blog](https://img.shields.io/badge/TECH_BLOG-7CCEA0?style=flat-square&logo=tistory&logoColor=white)](https://mjlog.tistory.com/)]
+[![Blog](https://img.shields.io/badge/TECH_BLOG-7CCEA0?style=flat-square&logo=tistory&logoColor=white)](https://mjlog.tistory.com/)
 [![Email](https://img.shields.io/badge/EMAIL-ED76AC?style=flat-square&logo=gmail&logoColor=white)](mailto:dlalwnjenny@naver.com)
 
 </div>
