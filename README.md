@@ -77,8 +77,16 @@
 
 <br />
 
+## Contribution Garden 🐍
+
+커밋 잔디를 따라 움직이는 작은 스네이크가 제 개발 기록을 먹어 치웁니다.
+
 <div align="center">
 
-![MIJUUUUU's 3D contribution graph](./profile-3d-contrib/profile-green-animate.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg" />
+  <img alt="MIJUUUUU's GitHub contribution snake" src="./dist/github-snake.svg" />
+</picture>
 
 </div>
