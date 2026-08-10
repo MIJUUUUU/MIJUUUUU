@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="700" viewBox="0 0 1280 700" role="img" aria-labelledby="title">
+  <title id="title">MIJUUUUU's 3D contribution graph</title>
+  <rect width="1280" height="700" rx="18" fill="#ffffff"/>
+  <defs>
+    <!-- Keep the central 3D contribution plane and crop the surrounding charts. -->
+    <clipPath id="grass-only">
+      <path d="M0 0H850L1180 700H250Z"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#grass-only)">
+    <image href="./profile-green-animate.svg" x="0" y="-70" width="1280" height="850" preserveAspectRatio="none"/>
+  </g>
+</svg>

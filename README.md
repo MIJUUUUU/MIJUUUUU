@@ -93,6 +93,6 @@
 
 <div align="center">
 
-![MIJUUUUU's 3D contribution graph](./profile-3d-contrib/profile-green-animate.svg)
+<img src="./profile-3d-contrib/profile-green-only.svg" alt="MIJUUUUU's 3D contribution graph" width="100%" />
 
 </div>
