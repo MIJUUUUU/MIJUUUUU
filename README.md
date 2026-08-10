@@ -76,3 +76,9 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 <br />
+
+<div align="center">
+
+![MIJUUUUU's 3D contribution graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
