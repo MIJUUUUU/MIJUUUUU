@@ -88,11 +88,3 @@
 </picture>
 
 </div>
-
-## 3D Contribution
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-green-only.svg" alt="MIJUUUUU's 3D contribution graph" width="100%" />
-
-</div>
