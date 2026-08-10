@@ -89,10 +89,10 @@
 
 </div>
 
-## My AI Service Journey 🚀
+## 3D Contribution
 
 <div align="center">
 
-<img src="./assets/ai-service-journey.svg" alt="Miju's AI service journey map" width="100%" />
+![MIJUUUUU's 3D contribution graph](./profile-3d-contrib/profile-green-animate.svg)
 
 </div>
