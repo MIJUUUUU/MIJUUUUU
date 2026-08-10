@@ -79,8 +79,6 @@
 
 ## Contribution Garden 🐍
 
-커밋 잔디를 따라 움직이는 작은 스네이크가 제 개발 기록을 먹어 치웁니다.
-
 <div align="center">
 
 <picture>
@@ -91,33 +89,10 @@
 
 </div>
 
-## How I Build AI Services 🧩
+## My AI Service Journey 🚀
 
-```mermaid
-flowchart LR
-    U((User)) --> FE[Frontend<br/>React · Vue · Tailwind]
-    FE --> API[API Layer<br/>FastAPI · Spring Boot]
-    API --> AI[AI Service<br/>LLM · RAG · OpenAI API]
-    API --> DB[(Data Layer<br/>PostgreSQL · MySQL · MongoDB)]
-    AI --> VECTOR[(Vector DB)]
-    API --> CACHE[(Redis)]
+<div align="center">
 
-    FE -.-> DEPLOY[Deployment<br/>AWS · Docker]
-    API -.-> DEPLOY
-    AI -.-> DEPLOY
-    DEPLOY -.-> CI[CI/CD<br/>GitHub Actions · Jenkins]
+<img src="./assets/ai-service-journey.svg" alt="Miju's AI service journey map" width="100%" />
 
-    classDef user fill:#FDE68A,stroke:#F59E0B,color:#713F12
-    classDef frontend fill:#BAE6FD,stroke:#0284C7,color:#082F49
-    classDef backend fill:#BBF7D0,stroke:#16A34A,color:#14532D
-    classDef ai fill:#E9D5FF,stroke:#9333EA,color:#581C87
-    classDef data fill:#BFDBFE,stroke:#2563EB,color:#1E3A8A
-    classDef deploy fill:#FED7AA,stroke:#EA580C,color:#7C2D12
-
-    class U user
-    class FE frontend
-    class API backend
-    class AI ai
-    class DB,VECTOR,CACHE data
-    class DEPLOY,CI deploy
-```
+</div>
