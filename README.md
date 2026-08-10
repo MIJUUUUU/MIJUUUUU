@@ -79,6 +79,6 @@
 
 <div align="center">
 
-![MIJUUUUU's 3D contribution graph](./profile-3d-contrib/profile-night-rainbow.svg)
+![MIJUUUUU's 3D contribution graph](./profile-3d-contrib/profile-green-animate.svg)
 
 </div>
