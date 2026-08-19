@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rect&text=MIJU'S_GIT&fontAlign=50&fontSize=90&height=170&animation=scaleIn&color=gradient&customColorList=0,2,2,5,30&section=header&fontColor=ffffff)
+<img src="./assets/mijus-git.svg" alt="MIJU'S GIT" width="900" />
 
 <br />
 

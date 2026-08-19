@@ -1,0 +1,33 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">MIJU'S GIT</title>
+  <desc id="desc">A simple retro-inspired header for Miju's GitHub profile.</desc>
+  <defs>
+    <linearGradient id="fill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff9ecb"/>
+      <stop offset="1" stop-color="#ee639f"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-20%" width="120%" height="150%">
+      <feOffset dy="6"/>
+      <feGaussianBlur stdDeviation="0"/>
+      <feComponentTransfer><feFuncA type="linear" slope="0.45"/></feComponentTransfer>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="220" fill="#101217"/>
+
+  <!-- Small pixel sparkles -->
+  <g fill="#ffe799">
+    <rect x="126" y="52" width="5" height="5"/>
+    <rect x="121" y="57" width="15" height="5"/>
+    <rect x="126" y="62" width="5" height="5"/>
+    <rect x="770" y="149" width="5" height="5"/>
+    <rect x="765" y="154" width="15" height="5"/>
+    <rect x="770" y="159" width="5" height="5"/>
+    <rect x="748" y="48" width="4" height="9"/>
+    <rect x="154" y="169" width="4" height="4"/>
+  </g>
+
+  <text x="450" y="136" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="76" font-weight="900" letter-spacing="-2" fill="url(#fill)" stroke="#ffe799" stroke-width="10" paint-order="stroke" stroke-linejoin="round" filter="url(#shadow)">MIJU'S GIT</text>
+  <text x="450" y="136" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="76" font-weight="900" letter-spacing="-2" fill="none" stroke="#663bd1" stroke-width="5" paint-order="stroke" stroke-linejoin="round">MIJU'S GIT</text>
+</svg>
